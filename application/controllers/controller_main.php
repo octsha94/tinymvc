@@ -1,5 +1,7 @@
 <?php
 
+defined('IN_SYSTEM') or die('Запрет доступа!');
+
 class Controller_Main extends Controller
 {
 
